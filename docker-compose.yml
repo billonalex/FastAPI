@@ -1,8 +1,8 @@
 version: "3.7"
 
 services:
-  apigestiome:
-    container_name: apigestiome
+  fastapi:
+    container_name: fastapi
     build:
       context: ./api
       dockerfile: Dockerfile
