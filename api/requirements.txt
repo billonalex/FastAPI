@@ -1,0 +1,15 @@
+certifi>=14.05.14
+six>=1.10
+python_dateutil>=2.5.3
+setuptools>=21.0.0
+urllib3>=1.15.1
+fastapi>=0.68.0,<0.69.0
+pydantic>=1.8.1
+uvicorn>=0.15.0,<0.16.0
+python-multipart>=0.0.5
+mysql-connector-python>=8.0.25 
+bcrypt>=3.2.0
+python-jose>=3.3.0
+passlib>=1.7.4
+sqlalchemy>=1.4.26
+sqlacodegen>=2.3.0
